@@ -1,0 +1,31 @@
+{
+  "Novel": [
+    "Thriller", 
+    "Historical Romance",
+    "Historical Fiction"
+  ],
+  "Non Fiction": [
+    "Memoirs", 
+    "Self Help", 
+    "Encyclopedia", 
+    "Biographies", 
+    "Travel Guides", 
+    "History"
+  ],
+  "Fiction": [
+    "Fantasy", 
+    "Romance",
+    "Sci Fi"
+  ],
+  "Picture Books": [
+    "Comic",
+    "Manga"
+  ],
+  "DVD": [
+    "Romantic Comedy", 
+    "Thrillers", 
+    "Action", 
+    "Horror", 
+    "Romance"
+  ]
+}
